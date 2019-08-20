@@ -1,0 +1,17 @@
+{
+  "name": "a-dollar",
+  "version": "1.0.0",
+  "description": "Imagine you need a dollar, but you're not sure how much it costs. Using this package you can check it easily.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "exchange",
+    "currency",
+    "rates"
+  ],
+  "preferGlobal": true,
+  "author": "Kornel Dubieniecki",
+  "license": "MIT"
+}
